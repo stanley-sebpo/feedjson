@@ -1,0 +1,21 @@
+{
+    "code": "r00nih0eec",
+    "display_name": "SFO-HON",
+    "display_retargeting": "SFO-HON",
+    "display_status": "Active",
+    "display_typeflight": "One-Way",
+    "display_typetravel": "MLD-HI",
+    "lcp_cabin_product": "Main Cabin Basic",
+    "lcp_display_fareprice": "$119",
+    "lcp_display_from": "SAN FRANCISCO TO HONOLULU",
+    "lcp_display_url1": "https://www.hawaiianairlines.com/deals-and-offers/one-way-fares?o=sfo,o=oak,o=sjc&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+    "lcp_price_simple": "$119",
+    "basic_cabin_product": "Main Cabin Basic",
+    "basic_display_fareprice": "$119",
+    "basic_display_url1": "https://www.hawaiianairlines.com/deals-and-offers/one-way-fares?o=sfo,o=oak,o=sjc&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+    "basic_price_simple": "$119",
+    "weight": "1",
+    "interisland_display_url": "https://www.hawaiianairlines.com/deals-and-offers/NI-Fares?o=SFO&d=OGG&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+    "origin": "SFO",
+    "destination": "OGG"
+    }
