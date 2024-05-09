@@ -1,0 +1,21 @@
+{
+    "code": "r00nm83a12",
+    "display_name": "KOA-JFK",
+    "display_retargeting": "KOA-JFK",
+    "display_status": "Active",
+    "display_typeflight": "One-Way",
+    "display_typetravel": "HI-MLD",
+    "lcp_cabin_product": "Main Cabin Basic",
+    "lcp_display_fareprice": "$494",
+    "lcp_display_from": "KONA TO NEW YORK CITY",
+    "lcp_display_url1": "https://www.hawaiianairlines.com/deals-and-offers/HI-MLD?d=JFK&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+    "lcp_price_simple": "$494",
+    "basic_cabin_product": "Main Cabin Basic",
+    "basic_display_fareprice": "$494",
+    "basic_display_url1": "https://www.hawaiianairlines.com/deals-and-offers/HI-MLD?d=JFK&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+    "basic_price_simple": "$494",
+    "weight": "1",
+    "interisland_display_url": "https://www.hawaiianairlines.com/deals-and-offers/NI-Fares?o=KOA&d=JFK&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+    "origin": "KOA",
+    "destination": "JFK"
+    }
