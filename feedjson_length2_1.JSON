@@ -1,0 +1,21 @@
+{
+"code": "r00nk4cbcd",
+"display_name": "JFK-OGG",
+"display_retargeting": "JFK-OGG",
+"display_status": "Active",
+"display_typeflight": "One-Way",
+"display_typetravel": "MLD-HI",
+"lcp_cabin_product": "Main Cabin Basic",
+"lcp_display_fareprice": "$226",
+"lcp_display_from": "NEW YORK CITY TO KAHULUI",
+"lcp_display_url1": "https://www.hawaiianairlines.com/deals-and-offers/one-way-fares?o=jfk&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+"lcp_price_simple": "$226",
+"basic_cabin_product": "Main Cabin Basic",
+"basic_display_fareprice": "$10.99",
+"basic_display_url1": "https://www.hawaiianairlines.com/deals-and-offers/one-way-fares?o=jfk&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+"basic_price_simple": "$226",
+"weight": "1",
+"interisland_display_url": "https://www.hawaiianairlines.com/deals-and-offers/NI-Fares?o=JFK&d=OGG&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
+"origin": "JFK",
+"destination": "OGG"
+}
