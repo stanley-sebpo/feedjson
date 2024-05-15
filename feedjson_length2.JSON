@@ -13,7 +13,7 @@
 "basic_cabin_product": "Main Cabin Basic",
 "basic_display_fareprice": "$10",
 "basic_display_url1": "https://www.hawaiianairlines.com/deals-and-offers/one-way-fares?o=jfk&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
-"basic_price_simple": "$22",
+"basic_price_simple": "$226",
 "weight": "1",
 "interisland_display_url": "https://www.hawaiianairlines.com/deals-and-offers/NI-Fares?o=JFK&d=OGG&HACMP=[%tp_PlacementName%]&d_creative=[%tp_AdName%],[%tp_PlacementID%],[%tp_CampaignID%]",
 "origin": "JFK",
